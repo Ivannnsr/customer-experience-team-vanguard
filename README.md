@@ -58,12 +58,15 @@ We evaluated the experiment design, duration, and additional data needs:
 ### Day of the Week Analysis
 We analyzed the distribution of 'confirm' steps across different days of the week.
 
+## Streamlit App
+We have also developed a Streamlit app to provide an interactive way to explore the results of our analysis.
+
 ## Conclusion
 The analysis provides valuable insights into the effectiveness of the new UI design. The new design leads to a higher completion rate, and the observed increase is statistically significant. However, the increase does not meet the 5% threshold set for cost-effectiveness. Further improvements and targeted strategies are recommended to enhance the design's effectiveness.
 
 ## Team Members
-- [Cris](https://github.com/cris)
-- [Javi](https://github.com/javi)
+- [Cris](https://github.com/cdeniaca)
+- [Javi](https://github.com/JavierRodriguezdeCea)
 - [Ivan](https://github.com/Ivannnsr)
 - [Miqueas](https://github.com/miqueasmd)
 
